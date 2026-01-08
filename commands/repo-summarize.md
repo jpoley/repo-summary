@@ -216,17 +216,17 @@ Write a comprehensive, paragraph-form summary following this structure:
 
 ## Quick Assessment
 
-**Strengths:**
-- [Strength 1]
-- [Strength 2]
-- [Strength 3]
+**Notable Features:**
+- [Feature 1 observed in repository]
+- [Feature 2 observed in repository]
+- [Feature 3 observed in repository]
 
-**Areas for Improvement:**
-- [Area 1]
-- [Area 2]
+**Not Present:**
+- [Standard element not found, e.g., "No test directory detected"]
+- [Another missing element, if applicable]
 
 **Best For:**
-[One sentence describing who should use this project and for what purpose.]
+[One sentence describing the project's stated purpose based on README/description.]
 
 ---
 
@@ -263,10 +263,10 @@ Report completion:
 ## Guidelines for Summary Writing
 
 1. **Natural Language**: Write in flowing paragraphs, not bullet points (except where specifically indicated)
-2. **Objective Tone**: Be factual and balanced; note both strengths and weaknesses
-3. **Specific Details**: Include specific numbers, dates, and examples
-4. **Context**: Explain what metrics mean, not just what they are
-5. **Actionable Insights**: Help readers understand if this project is right for them
+2. **Facts Only**: Report actual numbers from the API. Do NOT editorialize or judge whether metrics are "good," "bad," "low," or "high." Let the reader interpret the data.
+3. **Specific Details**: Include specific numbers, dates, and examples fetched from the API
+4. **No Invented Data**: Never make up numbers. If data is unavailable, state "Not available" rather than guessing.
+5. **Objective Descriptions**: Describe what exists in the repository without value judgments about adoption, popularity, or success
 
 ## Error Handling
 
