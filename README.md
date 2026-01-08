@@ -134,10 +134,3 @@ Each summary includes:
 - [Claude Code](https://claude.ai/code) CLI
 - GitHub MCP tools enabled (included with Claude Code)
 
-## Related
-
-Inspired by [yt-summary](https://github.com/jpoley/yt-summary) for YouTube video summarization.
-
-## License
-
-MIT
