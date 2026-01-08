@@ -1,0 +1,16 @@
+{
+  "name": "repo-summary-marketplace",
+  "owner": {
+    "name": "jpoley"
+  },
+  "plugins": [
+    {
+      "name": "repo-summary",
+      "source": {
+        "source": "github",
+        "repo": "jpoley/repo-summary"
+      },
+      "description": "GitHub repository summarization - generates natural language summaries with maturity ratings, code quality assessment, and contributor analysis"
+    }
+  ]
+}

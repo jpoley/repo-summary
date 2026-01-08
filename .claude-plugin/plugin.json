@@ -1,0 +1,8 @@
+{
+  "name": "repo-summary",
+  "version": "1.0.0",
+  "description": "GitHub repository summarization - generates natural language summaries with maturity ratings, code quality assessment, and contributor analysis",
+  "author": {
+    "name": "jpoley"
+  }
+}
